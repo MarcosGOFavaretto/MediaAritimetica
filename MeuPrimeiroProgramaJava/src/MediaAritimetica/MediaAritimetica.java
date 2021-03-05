@@ -1,7 +1,7 @@
 /**
- * Programa: Média Aritimética
- * Autor: Marcos Gabriel De Oliveira Favaretto
- * Data: 23 de Julho de 2019
+ * Programa: Média Aritimética.
+ * Autor: Marcos Gabriel De Oliveira Favaretto.
+ * Data: 23 de Julho de 2019.
  */
 package MediaAritimetica;
 
