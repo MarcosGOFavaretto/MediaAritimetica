@@ -1,21 +1,14 @@
-/*
- * Programa exercício número 2 - Média
+/**
+ * Programa: Média Aritimética
  * Autor: Marcos Gabriel De Oliveira Favaretto
- * Aula de D.S. 23/07/2019
+ * Data: 23 de Julho de 2019
  */
 package MediaAritimetica;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author ETEC ALUNO
- */
 public class MediaAritimetica {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         float nota1;
         float nota2;
@@ -25,5 +18,4 @@ public class MediaAritimetica {
         media = (nota1 + nota2) / 2;
         JOptionPane.showMessageDialog(null, "A média do aluno é igual a: " + media, "ETEC", JOptionPane.WARNING_MESSAGE);
     }
-
 }
